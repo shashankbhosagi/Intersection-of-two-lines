@@ -56,7 +56,7 @@ Multiplying (2) by (Dx-Cx) on B.S
 Now we can substitute the value of `t` or `u` in Ix and Iy equation to get the value of I which is intersection point.
 
 
-### COde
+## Code
 
 The HTML code contains a visualization in which line `AB` is rotating and `CD` line is stationary and we can see how the point will look like on the line. THis will help me visualize the point I when getting intersected.
 
